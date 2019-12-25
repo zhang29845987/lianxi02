@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"passed","script.huoqu_data.Test_01.test_01[1-2-3]","4",""
+"passed","script.huoqu_data.Test_01.test_01[2-4-6]","2",""
+"passed","script.huoqu_data.Test_01.test_01[3-2-5]","3",""

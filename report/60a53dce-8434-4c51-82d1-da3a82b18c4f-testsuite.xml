@@ -1,0 +1,42 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1577279650397" stop="1577279650413">
+  <name>script</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1577279650397" status="passed" stop="1577279650401">
+      <name>huoqu_data.Test_01.test_01[1-2-3]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="16944-MainThread"/>
+        <label name="host" value="DESKTOP-86LHG97"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1577279650404" status="passed" stop="1577279650407">
+      <name>huoqu_data.Test_01.test_01[3-2-5]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="16944-MainThread"/>
+        <label name="host" value="DESKTOP-86LHG97"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1577279650411" status="passed" stop="1577279650413">
+      <name>huoqu_data.Test_01.test_01[2-4-6]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="16944-MainThread"/>
+        <label name="host" value="DESKTOP-86LHG97"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

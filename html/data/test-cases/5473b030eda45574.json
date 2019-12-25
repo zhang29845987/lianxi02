@@ -1,0 +1,60 @@
+{
+  "uid" : "5473b030eda45574",
+  "name" : "huoqu_data.Test_01.test_01[2-4-6]",
+  "fullName" : "script.huoqu_data.Test_01.test_01[2-4-6]",
+  "historyId" : "df540d46717f941fc51991956797cf8a",
+  "time" : {
+    "start" : 1577279650411,
+    "stop" : 1577279650413,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-86LHG97"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "16944-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "script"
+  }, {
+    "name" : "testClass",
+    "value" : "script"
+  }, {
+    "name" : "testMethod",
+    "value" : "huoqu_data.Test_01.test_01[2-4-6]"
+  }, {
+    "name" : "package",
+    "value" : "script"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5473b030eda45574.json",
+  "parameterValues" : [ ]
+}

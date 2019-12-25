@@ -1,0 +1,10 @@
+#name: "张鹏博"
+#age: 18
+
+#{name: "张鹏博1",age: 18}
+
+data: &datas
+  name: "张鹏博"
+
+age: 25
+name: 张鹏博1456

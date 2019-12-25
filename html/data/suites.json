@@ -1,0 +1,45 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "script",
+    "children" : [ {
+      "name" : "huoqu_data.Test_01.test_01[1-2-3]",
+      "uid" : "18f623bb982bd3e4",
+      "parentUid" : "753b61216abbfea068f4ca4e530487c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1577279650397,
+        "stop" : 1577279650401,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "huoqu_data.Test_01.test_01[3-2-5]",
+      "uid" : "563ee605b1fadc47",
+      "parentUid" : "753b61216abbfea068f4ca4e530487c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1577279650404,
+        "stop" : 1577279650407,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "huoqu_data.Test_01.test_01[2-4-6]",
+      "uid" : "5473b030eda45574",
+      "parentUid" : "753b61216abbfea068f4ca4e530487c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1577279650411,
+        "stop" : 1577279650413,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "753b61216abbfea068f4ca4e530487c6"
+  } ]
+}

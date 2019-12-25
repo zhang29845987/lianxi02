@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-86LHG97",
+    "children" : [ {
+      "name" : "16944-MainThread",
+      "children" : [ {
+        "name" : "huoqu_data.Test_01.test_01[1-2-3]",
+        "uid" : "18f623bb982bd3e4",
+        "parentUid" : "59b8744c01d52addb4b23eae792e4565",
+        "status" : "passed",
+        "time" : {
+          "start" : 1577279650397,
+          "stop" : 1577279650401,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "huoqu_data.Test_01.test_01[2-4-6]",
+        "uid" : "5473b030eda45574",
+        "parentUid" : "59b8744c01d52addb4b23eae792e4565",
+        "status" : "passed",
+        "time" : {
+          "start" : 1577279650411,
+          "stop" : 1577279650413,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "huoqu_data.Test_01.test_01[3-2-5]",
+        "uid" : "563ee605b1fadc47",
+        "parentUid" : "59b8744c01d52addb4b23eae792e4565",
+        "status" : "passed",
+        "time" : {
+          "start" : 1577279650404,
+          "stop" : 1577279650407,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "59b8744c01d52addb4b23eae792e4565"
+    } ],
+    "uid" : "363ae14124a3dbc12036e40c1b73a254"
+  } ]
+}
